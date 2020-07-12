@@ -1,0 +1,97 @@
+#firstname, #location, #twitter, #email {
+  color: deepskyblue;
+}
+
+.emailAddress, .twitterId, .locationPlace {
+  display: inline;
+}
+
+header h1 {
+  display: inline;
+}
+
+header {
+  border-bottom: 3px black solid;
+  padding-bottom: 20px;
+}
+
+
+#contact {
+  float: right;
+}
+
+.greybox {
+  background-color: lightgray;
+  /* margin: 0 auto; */
+}
+
+#work {
+  width: 63%;
+}
+
+#education {
+  width: 36%;
+  float: right;
+  position: fixed;
+  top: 89px;
+  right: 5px;
+}
+
+.titleOfGreyBox {
+  border-bottom: 2px black solid;
+  padding-left: 15px;
+}
+
+.yearOfWork {
+  border-right: 2px black solid;
+  padding-right: 20px;
+  padding-left: 15px;
+  padding-bottom: 20px;
+  float: left;
+  margin-top: -15px;
+}
+
+.companyName {
+  color: deepskyblue;
+}
+
+.workInfo {
+  padding-left: 85px;
+}
+
+.workProfile {
+  margin-top: -15px;
+}
+
+.collegeName {
+  color: deepskyblue;
+}
+
+.collegeInfo {
+  padding-left: 15px;
+}
+
+.courseName {
+  margin-top: -15px;
+}
+
+#footerText {
+  color: deepskyblue;
+}
+
+#footer {
+  position: fixed;
+  bottom: 10px;
+  text-align: center;
+  background-color: lightgray;
+  width: 100%;
+}
+
+.footerLinks {
+  color: rgb(97, 33, 180);
+  padding: 10px;
+}
+
+.footerLinks:hover {
+  color: darkblue;
+}
